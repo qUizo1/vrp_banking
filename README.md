@@ -25,12 +25,12 @@ A comprehensive banking system for vRP (vRoleplay) framework, providing players 
 ## Photos
 
 ### Banking Interface
-![Banking Interface](ss/screenshot1.png)
+![Banking Interface](ss/main.png)
 
 *Description: How the banking looks normal - the main interface.*
 
 ### Transaction Interaction
-![Transaction Interaction](ss/screenshot2.png)
+![Transaction Interaction](ss/second.png)
 
 *Description: How it looks when you press one of the buttons - interaction view.*
 

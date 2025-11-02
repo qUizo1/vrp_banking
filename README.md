@@ -1,14 +1,13 @@
 # vRP Banking
 
-A comprehensive banking system for vRP (vRoleplay) framework, providing players with the ability to manage their in-game finances through deposits, withdrawals, and transfers.
+A comprehensive banking system for vRP framework, providing players with the ability to manage their in-game finances through deposits, withdrawals, and transfers.
 
 ## Features
 
 - **Deposit Money**: Players can deposit cash into their bank accounts.
 - **Withdraw Money**: Players can withdraw money from their bank accounts.
-- **Transfer Money**: Secure transfers between players' bank accounts.
+- **Transfer Money**: Secure transfers between players bank accounts.
 - **Balance Check**: Real-time balance display and notifications.
-- **User-Friendly UI**: Integrated with qz_ui for a seamless banking experience.
 
 ## Dependencies
 

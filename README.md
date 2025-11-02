@@ -12,7 +12,7 @@ A comprehensive banking system for vRP framework, providing players with the abi
 ## Dependencies
 
 - [vRP Framework](https://github.com/vRP-framework/vRP)
-- [qz_ui](https://github.com/qUizo1/qz_ui) - Required for UI components and notifications.
+- [qz_ui](https://github.com/qUizo1/qz_ui)
 
 ## Installation
 
